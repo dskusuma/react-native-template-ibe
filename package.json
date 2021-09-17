@@ -1,0 +1,11 @@
+{
+  "name": "crn-template-ibe",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "react-native",
+    "react-native-template"
+  ],
+  "author": "IB Dwi Satria Kusuma",
+  "license": "ISC"
+}
